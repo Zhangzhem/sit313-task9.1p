@@ -1,0 +1,47 @@
+.bottomNavBarContainer{
+    width: 960px;
+    height: 50px;
+    margin: 20px auto;
+    display: flex;
+}
+.bottomNavBarSign{
+    width: 640px;
+    height: 50px;
+    background-color: gainsboro;
+}
+.bottomNavBarConnect{
+    width: 300px;
+    height: 50px;
+    float: left;
+    margin-left: 20px;
+    background-color: gainsboro;
+}
+.bottomNavBarConnect p{
+    width: fit-content;
+    height: fit-content;
+    margin: 10px 15px 15px 15px;
+    font-size: 25px;
+}
+.bottomNavInputGroup{
+    width: fit-content;
+    height: fit-content;
+    font-size: 25px;
+    margin: 10px 10px 10px 10px;
+    float: left;
+}
+.bottomNavInputEmail{
+    width: fit-content;
+    height: fit-content;
+    float: left;
+    margin: 5px 10px 10px 10px;
+}
+.bottomNavEmail{
+    width: 250px;
+    height: 40px;
+    border: none;
+}
+.bottomNavInputSubmit{
+    width: 100px;
+    height: 30px;
+    margin: 10px 0px 0px 0px;
+}

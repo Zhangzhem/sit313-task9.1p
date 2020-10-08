@@ -1,0 +1,17 @@
+.requesterListRow{
+    display: flex;
+}
+.requesterItem{
+    width: 320px;
+    height: 270px;
+    text-align: center;
+    flex: 33.3%;
+}
+.requesterImage{
+    margin-top: 25px;
+}
+.requesterTitle{
+    width: auto;
+    height: 60px;
+    text-align: center;
+}
